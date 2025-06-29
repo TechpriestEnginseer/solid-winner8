@@ -1,5 +1,7 @@
 Version 0.99
-- Added Shield
+- Ported for 0.98a
+- Added Shield Unfold Time to display
+- Added a Codex category listing all factions and all their fancy ship, weapons, and hullmods that are available to view in the intel tab. This does sync with faction learning blueprints when you reload saves. Does not support factions that are not visible in the intel tab at the moment (Lion's Guards and other... things)
 
 Version 0.98
 - Fixed projectile speed bug
