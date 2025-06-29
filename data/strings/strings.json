@@ -9,7 +9,7 @@
 		"value":"Value",
 		"change":"Change",
 		"F1Please":"Hold F1 to access other menu",
-		"F1F2F3Please":"Hold F1 to access other menu, F2 to cycle left, F3 to cycle right",
+		"F1F2F3Please":"Hold F1 to access other menu, F3 to cycle left, F4 to cycle right",
 	
 		"angle":"Angle",
 		"arc":"Arc",
@@ -67,6 +67,7 @@
 		"shieldarc":"Shield arc",
 		"shieldefficiency":"Shield efficiency",
 		"shieldupkeep":"Shield upkeep",
+		"shieldunfoldtime":"Shield unfold time",
 		"phaseupkeep":"Cloak upkeep",
 		"phasecost":"Cloak activation",
 		"emptybay":"This bay is empty.",
@@ -157,5 +158,64 @@
 		"auto_rec":"Requires Automated Ships or something similar to recover",
 		"no_dealer":"May not appear in most dealer menu to be produced",
 		"no_autofit":"Will not follow autofit rules",
+		
+		#TMI Codex
+		"help1title":"How to use",
+		"help1a":"On your left, you see a list of factions.",
+		"help1b":"On your right, you see a list of related entries if the group exist for that faction.",
+		"help1c":"Use [%s] / [%s] to go back.",
+		"help1ca":"Q", #Q letter to go back in Codex
+		"help1cb":"LEFT", #Left arrow key to go back in Codex
+		"help1d":"Use [%s] / [%s] to go up a level.",
+		"help1da":"E", #E letter to go back in Codex
+		"help1db":"UP", #Up arrow key to go back in Codex
+		"help1e":"The faction and its associated entries on the right can refresh when reloading your 'save.'",
+		
+		"wing":"Wings",
+		"wing1":"Fighter",
+		"wing2":"Interceptor",
+		"wing3":"Bomber",
+		"wing4":"Support",
+		"winga":"Wings take form of a LPC which can be slotted onto a fighter bay of a ship. Each wing has an engagement range which determines an approximate distance a wing can travel from the ship that launched it. Multiple wings launched from the same ship will form an attack run; trying to match their same speed to the slowest wing until their attack run range has been reached. Wings are split into 4 distinct roles.",
+		"wingb":"• Fighter has a generalist focus, serving no particular special role.",
+		"wingc":"• Interceptor focus on attacking enemy wings and distracting enemy wings.",
+		"wingd":"• Bomber focuses on destroying enemy ships with its specialty depending on its payload.",
+		"winge":"• Support focuses on keeping their parent carrier and friendly ships around alive.",
+		
+		"frigate":"Frigates", #highlight
+		"frigatea":"Frigates are the smallest size of a ship that can work independently. Their role excels at capturing command points, harassing enemies, or drawing enemy firepower. Some may work as an excellent flagship in the hand of a capable pilot.",
+		"destroyer":"Destroyers", #highlight
+		"destroyera":"Destroyers, while not as fast or durable as other ships, are often a good choice for many fleets. They serve as good escorts for both cruisers and capital ships. Some may provide support fire, cover flanks, or specialize in frigate hunting.",
+		"cruiser":"Cruisers", #highlight
+		"cruisera":"Cruisers, with high peak performance time and versatility, are used as flagships in many fleets. They serve in the middle ideal mix of a capital ship's gunpowder and destroyer's speed. Some can utilize ships of these size to singlehandeded decide a battle.",
+		"capitalship":"Capital Ships", #highlight
+		"capitalshipa":"Capital Ships, the biggest ships on the battlefield, are a formidable force on the battlefield. Often fitted with range hullmods allow them to deliver their immense firepower from afar. While incredibly difficult to destroy, their limited movement and positioning allowing flankers to utilize this disadvantage.",
+		"prioritysort":"prioritize", #highlight
+		"prioritysorta":"Each faction, including yours, can prioritize specific ships, weapons and fighters. Priority grants a strong likelihood is much more likely to spawn in the faction's fleets and markets, making it easier to obtain. Be it through fighting the faction, or buying it from their markets.",
+		"hullmod":"Hullmods", #highlight
+		"hullmod2":"built-in", #highlight
+		"hullmoda":"Hullmods are modifications installed on the ship. They can, for example, affect how fast the ship is, improving performance of its shield, or adding more armor. Some hullmods, when built-in, provide additional bonuses on top of base bonus from the hullmod. Some hullmods, especially more expensive ones when built-in provide a negative effect in addition to the initial bonus.",
+		"hullmodb":"Each faction has a certain lineup of hullmods they can sell on their markets. More rare hullmods are often sold on military markets only, possibly restricted to those that have a commission with the faction. Hullmods can also be recovered as salvage.",
+		"hullmodc":"Less reputable spacers may resort to fighting fleets who already use the hullmods they want and hope to find them in salvage after the battle.",
+		"hullmodd":"Entries in this category may have hullmods be used in the fleet, but never sold on the market; hullmods sold on the market, but not used in the fleet; or neither.",
+		"ballistic":"Ballistic",
+		"composite":"Composite",
+		"missile":"Missile",
+		"synergy":"Synergy",
+		"energy":"Energy",
+		"hybrid":"Hybrid",
+		"universal":"Universal",
+		
+		"ballistica":"Ballistic weapons can be slotted onto Ballistic, Hybrid, Composite, and Universal slot type of same size. Ballistic weapons can only be downsized onto only Ballistic slots.",
+		"compositea":"Composite weapons can be slotted onto Composite, Ballistic, Missile, and Universal slot type of same size. Composite weapons can only be downsized onto only Composite slots.",
+		"missilea":"Missile weapons can be slotted onto Missile, Composite, Synergy, and Universal slot type of same size. Missile weapons can only be downsized onto only Missile slots.",
+		"synergya":"Synergy weapons can be slotted onto Synergy, Energy, Missile, and Universal slot type of same size. Synergy weapons can only be downsized onto only Synergy slots.",
+		"energya":"Energy weapons can be slotted onto Energy, Hybrid, Synergy, and Universal slot type of same size. Energy weapons can only be downsized onto only Energy slots.",
+		"hybrida":"Hybrid weapons can be slotted onto Hybrid, Ballistic, Energy, and Universal slot type of same size. Hybrid weapons can only be downsized onto only Hybrid slots.",
+		"universala":"Universal weapons can be slotted onto any slot type of same size. Universal weapons can only be downsized onto only Universal slots.",
+
+		"faction_header":"Extra Information (supplied by other mods)",
+		"luddic_church0":"entry",
+		"luddic_church20":"entry22",
 	},
 }
