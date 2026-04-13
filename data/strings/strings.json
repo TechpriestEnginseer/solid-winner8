@@ -215,7 +215,7 @@
 		"universala":"Universal weapons can be slotted onto any slot type of same size. Universal weapons can only be downsized onto only Universal slots.",
 
 		"faction_header":"Extra Information (supplied by other mods)",
-		"luddic_church0":"entry",
-		"luddic_church20":"entry22",
+		#"luddic_church0":"entry",
+		#"luddic_church20":"entry22",
 	},
 }
