@@ -23,7 +23,7 @@ Version 0.96
 * Fixed missile's launch speed data display.
 
 Version 0.95
-* Added some ° to certain stats
+* Added some degrees to certain stats
 * Added price for tmi-ship display in the tag section
 * Fixed refire delay bug with tmi-missile display
 * Fixed some bugs involving loading game
