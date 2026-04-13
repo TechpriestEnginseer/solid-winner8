@@ -1,6 +1,6 @@
 Version 0.99a
 * Fixed TMI - Beams not detecting Beam Damage modifier like High Scatterer Amplifier
-* Capped the size of faction flags displayed in the TMI Codex (like the Persean League).
+* Capped the size of faction flags displayed in the TMI Codex (like the Persean League)
 
 Version 0.99
 * Ported for 0.98a
