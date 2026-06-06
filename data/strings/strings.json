@@ -169,7 +169,7 @@
 		"help1d":"Use [%s] / [%s] to go up a level.",
 		"help1da":"E", #E letter to go back in Codex
 		"help1db":"UP", #Up arrow key to go back in Codex
-		"help1e":"The faction and its associated entries on the right can refresh when reloading your 'save.'",
+		"help1e":"The faction and its associated entries on the right can refresh when reloading your 'save.' You may also need to manually refresh if you are enabling/disabling devmode or somehow changed 'allCodexEntriesUnlocked' in your setting.json!",
 		
 		"wing":"Wings",
 		"wing1":"Fighter",
